@@ -1,0 +1,33 @@
+#tbDetail {
+	width:770px;
+	margin:10px auto;
+	
+}
+#tbDetail th {
+	width: 170px;
+}
+#btnBack{
+	float:right;
+	
+	margin-right: 15px;
+	margin-top:10px;
+	width:130px;
+}
+#btnAvl{
+	float:right;
+	margin-right: 15px;
+	margin-top:10px;
+	margin-bottom: 20px;
+	background-image: url(../img/calendar.png);
+	background-repeat:no-repeat;
+	background-position:10px 3px;
+	padding-left:30px;
+	width: 130px;
+}
+h3{
+	float:left;
+	text-align:left;
+	margin-top:10px; 
+	margin-left:16px;
+	margin-bottom: 10px;
+}

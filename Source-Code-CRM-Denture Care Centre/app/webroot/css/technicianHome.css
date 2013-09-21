@@ -1,0 +1,126 @@
+#divBBS1 {
+	background-color:#fff;
+	border:#000000 1px solid;
+    width: 400px;
+	height:445px;
+	margin: 20px 0 20px 17px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+	float:left;
+}
+#calendar{
+	float:right;
+}
+#lblTitile{
+	margin:5px 0px 5px 12px;
+	font: 600 1em "Myriad Pro", Verdana, Arial,sans-serif;
+}
+#divBBS2 { float:left;
+width: 240px;
+}
+#upcomingEvents {
+	margin-left:10px;
+	width:320px;
+}
+
+
+#datetitle{ font: 600 1em "Myriad Pro", Verdana, Arial,sans-serif;
+                margin-top:5px;
+}
+#tbCalendar{ margin-left:10px;
+	width:320px;
+}
+
+.ui-datepicker{
+width:350px;
+margin-top: 15px;
+margin-right: 14px;
+height: 209px;
+font-size: 11px;
+}
+
+.weatherCity, .weatherTemp, .weatherDesc{
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+.weatherRange, .weatherWind{
+	margin-bottom: 5px;
+	font-size: 10px;
+}
+.weatherLink{
+	margin-top: 15px;
+}
+.test{
+	height:40px;
+        width: 230px;
+        background: -moz-linear-gradient(top, #008000 0, #008000 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #008000), color-stop(20%, #4CC552));
+       -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+       border-radius: 5px;
+       font-weight: bold;
+       color: white;
+}
+.boxIcon{
+	margin:5px;
+	height: 32px;
+	width: 32px;
+}
+
+#divAppt, #divRss{	
+	height: 470px;
+	overflow: auto;	
+}
+#divAppt{
+	margin-right: 10px;
+}
+#divRss{
+	margin-left: 10px;
+}
+#divApptIcon{
+	margin-left: 10px;
+}
+.alarm{
+	width: 30px;
+}
+#recentActivity{
+	width: 100%;
+	text-align: center;
+
+}
+#tbBottom{
+	margin-left: 15px;
+	width: 760px;
+	
+}
+.good{
+	height:40px !important;
+}
+#divStickNotes{
+        width: 348px;
+        height: 466px;
+        background-image:url(../img/stickNotes.jpg);
+        background-repeat:no-repeat;
+        background-size: 110% 100%;
+        background-position-y: -15px;
+        background-position-x: -11px;
+        overflow: auto;
+}
+#divNotesReminder{
+	margin-bottom: 0px;
+}
+.remiderPoint{
+	background-image:url(../img/bullet-green-icon.png);
+	background-repeat:no-repeat;
+	border-bottom: 1px solid;
+	text-align: center;
+	padding-top: 5px;
+	overflow: auto;
+}
+.pTime{
+	font-weight: bold;
+}
+#divTest2{
+	height:400px;           
+	overflow: auto;
+}

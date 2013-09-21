@@ -1,0 +1,19 @@
+function enableField()
+{
+  document.getElementById('UserGivenName').disabled=false;
+  document.getElementById('UserSurname').disabled=false;
+  document.getElementById('UserEmailAddress').disabled=false;
+  document.getElementById('UserJobTitle').disabled=false;
+  document.getElementById('UserDateOfBirthMonth').disabled=false;
+  document.getElementById('UserDateOfBirthDay').disabled=false;
+  document.getElementById('UserDateOfBirthYear').disabled=false;
+  document.getElementById('UserGenderMale').disabled=false;
+  document.getElementById('UserGenderFemale').disabled=false;
+  document.getElementById('UserAddress').disabled=false;
+  document.getElementById('UserCity').disabled=false;
+  document.getElementById('UserState').disabled=false;
+  document.getElementById('UserPostcode').disabled=false;
+  document.getElementById('UserMobile').disabled=false;
+  document.getElementById('UserHome').disabled=false;
+  document.getElementById('UserGivenName').focus();
+}

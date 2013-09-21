@@ -1,0 +1,86 @@
+
+#divTable{
+  height:300px;width: 747px;
+  overflow: auto;
+  margin:0px auto;
+}
+
+input[type="text"]{
+	margin-left: 10px;
+	height: 30px;
+}
+select{
+	margin-left: 10px;
+	height: 30px;
+}
+textarea{
+	margin-left: 10px;
+	width:520px;
+	height:220px;
+	resize: none;
+}
+label {
+  	  display: inline;
+  	  font-weight: bold;
+}
+
+#btnNew{
+	background-image: url(../img/plus.png);
+	background-repeat:no-repeat;
+	background-position:5px 5px ;
+	padding-left: 25px;
+}
+
+#divAjax {		
+	width:750px;
+	margin:0px auto;
+}
+.fieldsetDetails{
+	border: 1px solid #dddddd;
+	-webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  width: 724px;
+}
+h4{     float:left;
+	font-size:16px;
+	margin:20px 0px 5px 15px;
+}
+#btnNew{
+	float:right;
+	margin:15px 20px 10px 15px;
+	width: 127px;
+}
+#btnEdit, #btnSave{
+	display: block;
+	float:right;
+	width:100px;
+	margin:12px 10px 7px 0px;
+}
+#btnCancel{
+	display: block;
+	float:right;
+	width:100px;
+	margin:12px 10px 7px 0px;
+}
+.error-message {
+	font-size:10px;
+	color:red;
+	float:right;	
+}
+.bodyClinic{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#btnNewJobTitle{
+	background-image: url(../img/plus.png);
+	background-repeat:no-repeat;
+	background-position:5px 5px ;
+	padding-left: 25px;
+	float:right;
+	margin:15px 20px 10px 15px;
+	width:130px;
+}
+#txtTime{
+	display:none;
+}

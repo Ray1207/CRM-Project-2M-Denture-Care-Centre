@@ -1,0 +1,28 @@
+label {
+  	  display: inline;
+  }
+#tbDetail{
+	width:770px;
+	margin:10px auto;
+}
+input[type="checkbox"]{
+	margin-left:10px;
+	margin-right: 10px;
+	margin-top: 0px;
+}
+#tbDetail th {
+	width: 180px;
+}
+#confidential{
+	background-color: red;
+}
+#btnBack{
+	float:right;
+	width:100px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+#btnBack2{
+	float:right;
+	width:100px;
+}

@@ -1,0 +1,34 @@
+﻿@charset "UTF-8";
+
+.rssFeed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	width: 370px;
+	margin-bottom: 2em;
+}
+.rssFeed a {
+	color: #444;
+	text-decoration: none;
+}
+.rssFeed a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+.rssHeader { padding: 0.2em 0; }
+
+.rssBody { border: 1px solid #DDD;
+	  -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+       border-radius: 5px;
+}
+.rssRow h4, .rssRow p, .rssRow div {
+	margin: 0;
+	padding: 0.5em;
+}
+
+#ticker1 .odd { background-color: #e8e8fc; width: 370px; height: 145px;}
+#ticker1 .even { background-color: #d4d4e8;  width: 370px; height: 145px;}
+
+#ticker2 .odd { background-color: #e8fce8; width: 370px; height: 145px;}
+#ticker2 .even { background-color: #d4e8d4; width: 370px; height: 145px;}

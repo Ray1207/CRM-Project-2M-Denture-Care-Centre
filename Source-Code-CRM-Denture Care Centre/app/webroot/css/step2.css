@@ -1,0 +1,105 @@
+
+#content label{
+	display: inline;
+	font-size: 16px;
+	margin-left: 5px;
+
+}
+input[type="text"] {
+	height:28px;
+	width:210px;
+	margin-left: 3px;
+	vertical-align: middle;
+}
+textarea {
+	height:40px;
+	vertical-align: middle;
+	margin-left:10px;
+	resize: none;
+}
+input[type="checkbox"] {
+	background-color: red;
+}
+
+#divButton{
+	float: right;
+}
+select{	
+	width:200px;
+	height:34px;
+	margin-left:5px;
+}
+#tbStep2 tr{
+	height:60px;
+}
+#PatientLatexAllergicDetails, #PatientOtherAllergiesDetails, #PatientMedicalConditionsDetails,#PatientMedicinesDetails{
+	width:410px;
+}
+#PatientCurrentDenturesProblem, #PatientAddtionalInformation{
+	width:510px;
+}
+#tbStep2{
+	width:770px;
+	margin:10px auto;
+}
+
+#step{
+	margin:0px 0px 0px 15px;
+}
+#PatientHasCurrentDentures, #PatientHasLatexAllergic, #PatientHasOtherAllergies, #PatientHasMedicalConditions, #PatientHasMedicines{
+	margin-left: 20px;
+}
+#PatientAddtionalInformation{
+	margin-left:35px;
+}
+#PatientPatientType{
+	margin-left:95px;
+}
+#divProblem{
+	margin-left: 20px;
+}
+#divAddInfo{
+	margin-left: 20px;
+}
+#divDentureAge{
+	margin-left: 108px;
+}
+#divPatientType{
+	margin-left: 40px;
+}
+#tbPatientType{
+	width:770px;
+	margin:5px auto;
+}
+#divDentist{
+	margin-left: 18px;
+}
+
+#PatientNote{
+	margin-left:150px;
+	margin-bottom:30px;
+	width:510px;
+	height: 50px;
+	vertical-align: middle;
+}
+
+#divNote{
+	margin-left:40px;
+	display:inline;
+}
+
+.btn{
+	width: 100px;
+	margin-right: 60px;
+	height: 30px;
+}
+#btnSave, #btnBack{
+	width: 100px;
+}
+.error-message {
+	margin-top: 0px;
+	font-size:10px;
+	color:red;
+	margin-left:75px;
+}
+.add-on{height:25px !important;margin-right: 0px; font-size: 16px;color:gray;}

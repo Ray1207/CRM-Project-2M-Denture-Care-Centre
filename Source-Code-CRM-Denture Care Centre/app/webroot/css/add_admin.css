@@ -1,0 +1,113 @@
+#content label{
+	display: inline;
+	font-size: 16px;
+}
+
+#content{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+#given_name, #surname, #email_address, #job_title, #date_of_birth, #address, #city, #state, #postcode, #email_confirmation,#homeNum,#insurance,#provider,#police,#reg{
+	height:70px;
+}                               
+#gender{
+	height:60px;
+        margin-top: 15px;	
+}
+table{ 
+	margin:20px 0px 0px 20px;
+        width:700px;
+}
+
+input[type="text"] {
+	height:28px;	
+	width:200px;
+	margin-left:10px; 
+}
+select{	
+	width:210px;
+	height:34px;
+	margin-left:10px;
+}
+.td1 div {
+	float:right;
+}
+.td2 div {
+	float:right;
+}
+.td1{
+	width: 345px;
+}
+.td2, .td3{
+	width: 355px;
+}
+/* date of birth */
+#UserDateOfBirthMonth, #UserDateOfBirthDay, #UserDateOfBirthYear{
+	height:34px;
+        width:101px;	
+}
+
+/* Gender */
+.td3 label{
+	float:left;
+}
+
+#lblGender{
+
+margin-left: 80px ;
+margin-right:30px;
+
+}
+#UserGenderFemale{
+	margin-left:50px;
+}
+#police{
+	margin-right:100px;
+}
+#reg{
+	margin-right:25px;
+}
+#date_of_birth{
+	margin-left: 26px;
+}
+.btn{
+	width:80px;
+	font-size: 15px;
+	float:right;
+}
+
+#btnCancel{
+	margin-left: 50px;
+}
+
+#given_name{
+	width:310px;
+}
+#surname{
+	width:288px;
+}
+#email_address{
+	width:327px;
+}
+#email_confirmation{
+	width:325px;
+}
+
+#address{
+	width:330px;
+}
+#city{
+	width: 277px;
+}
+#postcode{
+	width:292px;
+}
+#mobile{
+	width:273px;
+}
+
+.error-message {
+	font-size:10px;
+	color:red;
+	float:right;	
+}

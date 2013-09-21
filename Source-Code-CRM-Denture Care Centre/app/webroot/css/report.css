@@ -1,0 +1,83 @@
+#content{
+	font-family:  Arial, sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+}
+
+.wrapper{
+	margin-left: 0px;
+	margin-right:5px;
+	margin-top:0px;
+	margin-bottom:10px;
+    width: 100%;
+}
+
+label{
+	font-size:16px;
+	font-weight:bold;
+	display:inline;
+	margin-right: 5px;
+}
+
+input{
+	height:25px;
+	margin-top:10px;
+	display:inline;
+}
+
+select{
+	height: 25px;
+	margin-top:10px;
+}
+
+/* table style */
+#resultsTable {
+	margin-top:55px;
+}
+#resultsTable thead {
+   text-align: left;
+  
+}
+#resultsTable thead th {
+   border: 1px solid #B0B0B0;
+   font-size: 13px;
+}
+#resultsTable td {
+   font-size: 13px;
+}
+
+button{
+	height:35px;
+	margin: 5px 10px 10px 20px;
+	float:right;
+	font-size: 15px;
+	width:145px;
+	display:block;
+}
+.bodyClinic{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#divStart{
+	float:left;
+	padding-left: 80px;
+	margin-right: 20px;
+}
+.btn{
+	width: 80px;
+}
+#btnPrint{
+	margin-right: 57px;
+	background-image: url(../img/print-icon.png);
+	background-repeat:no-repeat;
+	background-position:5px 5px ;
+	padding-left: 32px;
+}
+
+.title, .mainTitle{
+	margin:10px 0 10px 0;
+	display:none;
+}
+#divReportTitle{
+ display:none;
+}

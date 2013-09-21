@@ -1,0 +1,48 @@
+#searchBox{
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+#UserSelection{
+	width:200px;
+	height:36px;
+	margin-left: 20px;
+	float: left;
+	font-size: 15px;
+}
+#UserValue{
+	height:26px;
+	margin-left: 18px;
+	float:left;
+	font-size: 15px;
+	width:200px;
+}
+#btnSearch{
+	height:35px;
+	margin-left: 20px;
+	float:left;
+	font-size: 15px;
+	width:145px;
+}
+#btnNew{height:35px;
+	margin-left: 15px;
+	font-size: 15px;
+	width:145px;
+	background-image: url(../img/plus.png);
+	background-repeat:no-repeat;
+	background-position:25px 8px;
+	padding-left: 35px;
+}
+/* scroll bar */
+#divTable{
+	 overflow: auto;
+	 width:95%;
+	margin:0 auto;    
+}
+/* table style */
+
+
+#edit{
+	margin-left: 15px;
+}
+
+

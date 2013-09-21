@@ -1,0 +1,82 @@
+#divBBS1 {
+	background-color:#fff;
+	border:#000000 2px solid;
+    width: 400px;
+	height:680px;
+	margin: 20px 0 20px 17px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+	float:left;
+}
+#lblTitile{
+	margin:5px 0px 5px 12px;
+	font: 600 1em "Myriad Pro", Verdana, Arial,sans-serif;
+}
+#divBBS2 {
+	background-color:#fff;
+	border:#000000 2px solid;
+        width: 340px;
+	height:362px;
+	margin: 20px 0 10px 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+	float:left;
+}
+#calendar{
+	background-color:#fff;
+	border:#000000 2px solid;
+    width: 340px;
+	height:300px;
+	margin: 5px 0 20px 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+	float:left;
+	text-align:center;
+}
+
+#recentActivity1 {
+	margin-left:10px;
+	width:370px;
+}
+#recentActivity2, #recentActivity3 {
+	margin-left:10px;
+	margin-top:20px;
+	width:370px;
+}
+#upcomingEvents {
+	margin-left:10px;
+	width:320px;
+}
+th { 
+font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color: #4f6b72; 
+border-right: 1px solid #C1DAD7; 
+border-bottom: 1px solid #C1DAD7; 
+border-top: 1px solid #C1DAD7; 
+letter-spacing: 2px; 
+text-transform: uppercase; 
+text-align: left; 
+padding: 6px 6px 6px 12px; 
+background: #CAE8EA no-repeat; 
+} 
+
+td { 
+font: bold 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+border-right: 1px solid #C1DAD7; 
+border-bottom: 1px solid #C1DAD7; 
+border-left: 1px solid #C1DAD7;
+border-top: 1px solid #C1DAD7;
+background: #fff; 
+font-size:11px; 
+padding: 6px 6px 6px 12px; 
+color: #4f6b72; 
+}
+td.row { color:#FF0000;
+}
+
+#datetitle{ font: 600 1em "Myriad Pro", Verdana, Arial,sans-serif;
+                margin-top:10px;
+}
+#tbCalendar{ margin-left:10px;
+	width:320px;
+}

@@ -1,0 +1,86 @@
+/* CSS Document */
+label{
+	display: inline !important;
+}
+/* Body general setting */
+#container{ position:relative;
+	        width:900px;
+	        border-style:solid;
+	        margin: auto;
+		font-family:Arial, sans-serif;
+	        font-size: 1.1em;
+	        color: #1d6655;
+	        border: 1px outset white;
+
+}
+a:hover {
+color: #005580;
+text-decoration: underline;
+}
+a {
+color: #08C;
+text-decoration: underline;
+}
+
+/* content */
+
+#content{height:665px;
+	border: 1px outset white;
+      
+          background-image: url(../img/Login.jpg);
+          background-repeat:no-repeat;
+}
+label{
+	    font-size: 1.1em !important;
+    color: #1D6655 !important;
+}
+#loginBox {         
+          height:200px;
+          width:350px;
+          margin-top:265px;
+          margin-left: 355px;
+          padding-top: 15px;
+}
+#divMsg{
+	height: 40px;
+	
+}
+#flashMessage {
+	border: 1px solid;
+        font-size: 12px;
+        background-image: url('../img/messages/dialog-warning.png');
+        background-repeat: no-repeat;
+        background-position: 10px 3px;
+        padding-left:25px;
+        padding-top:3px;
+	border-color: #D8000C;
+        background-color: #FFBABA;
+        color:#333;
+        width:268px;
+        height: 35px;
+        text-align: center;     
+}
+#UserUsername{
+	margin-left:10px;
+	margin-top:8px;
+	width:200px;
+	height: 25px;
+}
+#UserPassword{
+	margin-left:13px;
+	margin-top: 15px;
+	height: 25px;
+	width:200px;
+}
+#btnLogin {
+	margin-top: 8px;
+        margin-left:99px;
+        width: 70px;
+        font-size: 15px;
+}
+#linkForgot{
+	font-size: 13px;
+margin-left: 20px;
+}
+
+

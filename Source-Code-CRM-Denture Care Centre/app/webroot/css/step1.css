@@ -1,0 +1,131 @@
+#content label{
+	display: inline;
+	font-size: 16px;
+
+}
+#divStatus label{
+	font-size: 14px;
+	margin-left: 8px;
+	margin-right: 3px;
+}
+#tableBasicInfo {	
+	margin:1px auto;
+	width:770px;
+}
+
+input[type="text"] {
+	height:28px;
+	width:200px;
+	margin-left:10px;
+	margin-bottom:0px;
+  vertical-align: middle;
+}
+select{	
+	width:200px;
+	height:32px;
+	margin-left:10px;
+	vertical-align: middle;
+}
+
+  
+
+#PatientDateOfBirthDay {
+	width:50px;
+	margin-left:10px;
+}
+#PatientDateOfBirthMonth {
+	width:80px;
+	margin-left:0px;
+}
+#PatientDateOfBirthYear {
+	width:72px;
+	margin-left:0px;
+}
+#lblGender{
+float:left;
+margin-left: 12px ;
+margin-right:10px;
+
+}
+#gender label{
+	float:left;
+}
+
+#lblGender{
+margin-right:30px
+
+
+}
+#PatientGenderFemale{
+	margin-left:55px;
+}
+
+
+
+#btnNext {
+	
+	font-size: 15px;
+	height: 30px;
+	width: 100px;
+       margin-right:60px;
+}
+
+#tableBasicInfo tr{
+	height:65px;
+}
+
+#divStatus{
+	margin:10px 55px 10px 18px;
+	
+}
+#step{
+	margin:0px 0px 0px 12px;
+	font-size: 16px;
+}
+#PatientGpAddress{	
+	width:570px;
+}
+#divGivenName{
+	margin-left:23px;
+}
+#divDateOfBirth{
+	margin-left:20px;
+}
+#divStreetAddress{
+	margin-left:4px;
+}
+
+#divState{
+	margin-left:75px;
+}
+#divMobile{
+	margin-left:62px;
+}
+
+#divCity{
+	padding-left: 15px;
+}
+#divHome{
+	padding-left: 28px;
+}
+#divGPName{
+	margin-left:38px;	
+}
+#divGPPhone{
+	margin-left:38px;
+	padding-left: 25px;	
+}
+#divGPAddress{
+	margin-left:20px;	
+}	
+
+.error-message {
+	font-size:10px;
+	color:red;
+	float:right;
+	margin-right:70px;	
+}
+
+a {
+  font-size: 16px;
+

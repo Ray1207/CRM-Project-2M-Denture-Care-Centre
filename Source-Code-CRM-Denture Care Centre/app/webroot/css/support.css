@@ -1,0 +1,30 @@
+#content{
+	font-size: 15px;
+	padding:10px 5px 0 10px;
+}
+.wrapper{
+	margin-left: 0px;
+	margin-right:5px;
+	margin-top:0px;
+	margin-bottom:10px;
+    width: 100%;
+}
+
+
+a{
+	font-size: 16px;
+}
+#divUserManual{
+	width: 100px;
+	height: 100px;
+	float: right;
+	margin-right: 60px;
+}
+#imgUserManual{
+	width: 95px;
+	height: 90px;
+}
+#divUserManual a{
+	font-size: 12px;
+	padding-top: 5px;
+}
